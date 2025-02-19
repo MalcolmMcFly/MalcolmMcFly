@@ -5,11 +5,12 @@
 - I hold a BS in Computer Engineering from the University of North Texas 😛.</br>
 - Currently working on my MS in Engineering Management at the University of Arkansas.</br>
 - I've spent time working as a developer for Texas Instruments, Dell, Fanatics, and Hulu.</br>
+- Compose Multiplatform
 
 ## Present
 - 🔭 I’m currently practicing speaking Spanish
 - 💬 Ask me about travel 🚀
-- 🏀 Los Angeles Lakers + Atlanta Hawks 🇺🇲
+- 🏀 Los Angeles Lakers + Houston Rockets 🇺🇲
 
 ## Skills:
 
